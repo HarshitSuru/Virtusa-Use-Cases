@@ -1,0 +1,14 @@
+[
+    {
+        "date": "01-01-2025",
+        "category": "Food",
+        "amount": 1000.0,
+        "description": "biriyani"
+    },
+    {
+        "date": "01-02-2025",
+        "category": "Bills",
+        "amount": 2000.0,
+        "description": "current bill"
+    }
+]
