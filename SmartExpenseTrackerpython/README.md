@@ -4,6 +4,9 @@
 
 This is a console-based Python project for recording daily expenses, storing them in a JSON file, generating monthly summaries, and showing category-wise spending analysis.
 
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/25118c6e-4883-4afd-bc28-9d289931e3af" />
+
+
 ## Features
 
 - Add a new expense with date, category, amount, and description
