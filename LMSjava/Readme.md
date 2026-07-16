@@ -4,6 +4,11 @@
 
 This is a console-based Java project for managing library books, users, issue records, returns, and late fines.
 
+
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/0c7d8a3b-4652-4e5a-8587-6d01d6973db5" />
+
+
+
 ## Features
 
 - Add books
